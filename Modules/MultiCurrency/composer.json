@@ -1,0 +1,19 @@
+{
+    "name": "nwidart/multicurrency",
+    "description": "",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\MultiCurrency\\Providers\\MultiCurrencyServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\MultiCurrency\\": ""
+        }
+    }
+}

@@ -1,0 +1,3 @@
+cls
+cd F:\LEE\BeingMoody_Laravel_2022_04_21\source\web\testvmtgiwvbgez3lw765h7l5ci5xwvyg2ieatl2yhmgwzgofoc6ocqd.onion\public_html
+php artisan schedule:run
