@@ -1,6 +1,7 @@
 
 # Requirements
-Everything required for Marketplace to run normally
+This is a marketplace website and it doesn't use javascript because of security.
+This project includes cryptocurrency synchronization and auto payment via cryptocurrency.
 
 ## PHP Extensions
 -  sodium   (Message encryptuon)
